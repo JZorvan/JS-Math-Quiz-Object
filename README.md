@@ -1,1 +1,1 @@
-# JS-Math-Quiz-Object-
+# JS-Math-Quiz-Object
