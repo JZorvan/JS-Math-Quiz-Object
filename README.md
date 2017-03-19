@@ -1,3 +1,3 @@
-# JS-Math-Quiz-Object
+# JS Math Quiz: Using an Object
 
-Simple JS app Math Quiz using a Multi-Dimensional Array
+Simple JS app Math Quiz using an Object
